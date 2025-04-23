@@ -1,0 +1,9 @@
+Requirements for Youtube Download App to work
+1- install pytubefix 
+   - Can be installed using "pip install pytube"
+2- install streamlit
+   - Can be installed using "pip install streamlit"
+   
+3- ffmpeg
+  - A package needed to merge audio and video files for high resolution videos.
+  - Can be installed by "sudo apt install ffmpeg"
